@@ -1,6 +1,6 @@
 # 🚀 iTerm2 Installation Guide
 
-This guide will walk you through installing and configuring [iTerm2](https://iterm2.com), a powerful terminal emulator for macOS. Whether you're setting up a new machine or upgrading your dev environment, this guide will ensure you have iTerm2 running smoothly.
+This guide will walk you through installing and configuring iTerm2, a powerful terminal emulator for macOS. Whether you're setting up a new machine or upgrading your dev environment, this guide will ensure you have iTerm2 running smoothly.
 
 ---
 
